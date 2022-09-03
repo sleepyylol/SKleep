@@ -1,4 +1,4 @@
 # SKleep
-An addon that covers most your skript needs.
+An addon to deal with all things related to sleeping. 
 
 <b>Under Development</b>
