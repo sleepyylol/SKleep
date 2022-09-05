@@ -11,5 +11,5 @@ An addon to deal with all things related to sleeping.
 - DMs for support will be ignored
 - Reviews for support will be ignored
 
-### Documentation:
-- Added once plugin gets released.
+### Wiki
+- See the Wiki for more detailed info on syntaxes
