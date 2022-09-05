@@ -12,4 +12,4 @@ An addon to deal with all things related to sleeping.
 - Reviews for support will be ignored
 
 ### Wiki
-- See the Wiki for more detailed info on syntaxes
+- See the [Wiki](https://skripthub.net/tutorials/21) for more detailed info on syntaxes
