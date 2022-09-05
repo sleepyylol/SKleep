@@ -1,5 +1,5 @@
 # SKleep
-An addon to deal with all things related to sleeping. 
+**Skleep** is a [**Skript**](https://github.com/SkriptLang/Skript) addon to deal with all things related to sleeping. 
 
 ### Requirements:
 - Skript
