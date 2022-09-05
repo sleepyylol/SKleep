@@ -1,8 +1,6 @@
 # SKleep
 An addon to deal with all things related to sleeping. 
 
-SKleep is a Skript Addon focusing on adding features related to sleeping.
-
 ### Requirements:
 - Skript
 - Spigot/Paper
