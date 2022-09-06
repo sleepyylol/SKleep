@@ -7,7 +7,7 @@
 - Java 17+
 
 ## Support:
-- For issues or bugs, please post on the GitHub Issue Page
+- For issues or bugs, please post on the [GitHub Issue Page](https://github.com/sleepyylol/SKleep/issues)
 - DMs for support will be ignored
 - Reviews for support will be ignored
 
