@@ -3,7 +3,7 @@
 
 ## Requirements:
 - Skript
-- Spigot/Paper
+- Paper
 - Java 17+
 
 ## Support:
