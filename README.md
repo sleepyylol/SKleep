@@ -12,7 +12,7 @@
 - Reviews for support will be ignored
 
 ## Wiki
-- See the [Wiki](https://github.com/sleepyylol/SKleep/wiki/Wiki) for more detailed info on syntaxes
+- Check out the [Wiki](https://github.com/sleepyylol/SKleep/wiki/Wiki) for more info on the syntaxes
 
 ## Docs
 [![SkriptHubViewTheDocs](http://skripthub.net/static/addon/ViewTheDocsButton.png)](https://skripthub.net/docs/?addon=SKleep)
